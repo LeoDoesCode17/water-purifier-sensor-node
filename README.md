@@ -19,9 +19,9 @@ A water quality monitoring system built on the Arduino Uno R3. It measures **two
 
 | | Set 1 | Set 2 |
 |---|---|---|
-| pH | A0 | A3 |
-| Turbidity | A1 | A4 |
-| TDS | A2 | A5 |
+| pH | A0 | A1 |
+| Turbidity | A2 | A3 |
+| TDS | A4 | A5 |
 | Temperature (DS18B20) | D2 (shared bus, address #1) | D2 (shared bus, address #2) |
 
 ## Pin Configuration
